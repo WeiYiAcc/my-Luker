@@ -50,7 +50,7 @@ access.log
 public/css/user.css
 public/error/
 /plugins/*
-/data/*
+/data
 /default/scaffold/*
 /certs
 .aider*
@@ -72,6 +72,5 @@ android-app/app/.externalNativeBuild/
 !/backups/!README.md
 !/plugins/.gitkeep
 !/plugins/package.json
-!/data/.gitkeep
 !/default/scaffold/README.md
 !/public/scripts/extensions/third-party/.gitkeep
